@@ -1,7 +1,11 @@
+'use client'
+import { Box } from "@mui/material";
 export default function Home() {
   return (
-    <main>
-      <div>Hello world!</div>
-    </main>
+    <Box>
+      <Box>
+        Mui Works
+      </Box>
+    </Box>
   );
 }
