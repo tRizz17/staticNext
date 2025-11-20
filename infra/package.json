@@ -1,8 +1,8 @@
 {
-  "name": "infra",
+  "name": "web",
   "version": "0.1.0",
   "bin": {
-    "infra": "bin/infra.js"
+    "web": "bin/web.js"
   },
   "scripts": {
     "build": "tsc",
