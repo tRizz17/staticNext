@@ -1,0 +1,1 @@
+# Static NextJS app deployed to AWS S3 Bucket/Cloudfront
